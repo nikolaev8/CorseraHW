@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="740abcb4-9128-45af-a67f-889ca59ba6f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1kpGzAS1nueIMx7v619ixYaxcug" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestStat in StudingGoLang/hw7_microservice">
+    <configuration name="TestACL in StudingGoLang/hw7_microservice" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hw7_microservice" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="StudingGoLang/hw7_microservice" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestACL\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestLogging in StudingGoLang/hw7_microservice" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hw7_microservice" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="StudingGoLang/hw7_microservice" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestLogging\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestStat in StudingGoLang/hw7_microservice" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hw7_microservice" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="StudingGoLang/hw7_microservice" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestStat\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestStat in StudingGoLang/hw7_microservice" />
+        <item itemvalue="Go Test.TestLogging in StudingGoLang/hw7_microservice" />
+        <item itemvalue="Go Test.TestACL in StudingGoLang/hw7_microservice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2518" height="376" key="GridCell.Tab.0.bottom" timestamp="1606740210277">
+      <screen x="-233" y="-1080" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="376" key="GridCell.Tab.0.bottom/-233.-1080.2560.1080/0.0.1792.1120@-233.-1080.2560.1080" timestamp="1606740210277" />
+    <state width="2518" height="376" key="GridCell.Tab.0.bottom/-233.-1080.2560.1080/0.23.1792.1097@-233.-1080.2560.1080" timestamp="1606394615234" />
+    <state width="2518" height="376" key="GridCell.Tab.0.center" timestamp="1606740210274">
+      <screen x="-233" y="-1080" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="376" key="GridCell.Tab.0.center/-233.-1080.2560.1080/0.0.1792.1120@-233.-1080.2560.1080" timestamp="1606740210274" />
+    <state width="2518" height="376" key="GridCell.Tab.0.center/-233.-1080.2560.1080/0.23.1792.1097@-233.-1080.2560.1080" timestamp="1606394615233" />
+    <state width="2518" height="376" key="GridCell.Tab.0.left" timestamp="1606740210274">
+      <screen x="-233" y="-1080" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="376" key="GridCell.Tab.0.left/-233.-1080.2560.1080/0.0.1792.1120@-233.-1080.2560.1080" timestamp="1606740210274" />
+    <state width="2518" height="376" key="GridCell.Tab.0.left/-233.-1080.2560.1080/0.23.1792.1097@-233.-1080.2560.1080" timestamp="1606394615233" />
+    <state width="2518" height="376" key="GridCell.Tab.0.right" timestamp="1606740210275">
+      <screen x="-233" y="-1080" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="376" key="GridCell.Tab.0.right/-233.-1080.2560.1080/0.0.1792.1120@-233.-1080.2560.1080" timestamp="1606740210275" />
+    <state width="2518" height="376" key="GridCell.Tab.0.right/-233.-1080.2560.1080/0.23.1792.1097@-233.-1080.2560.1080" timestamp="1606394615234" />
+    <state width="2518" height="376" key="GridCell.Tab.1.bottom" timestamp="1606740210279">
+      <screen x="-233" y="-1080" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="376" key="GridCell.Tab.1.bottom/-233.-1080.2560.1080/0.0.1792.1120@-233.-1080.2560.1080" timestamp="1606740210279" />
+    <state width="2518" height="376" key="GridCell.Tab.1.bottom/-233.-1080.2560.1080/0.23.1792.1097@-233.-1080.2560.1080" timestamp="1606394616017" />
+    <state width="2518" height="376" key="GridCell.Tab.1.center" timestamp="1606740210278">
+      <screen x="-233" y="-1080" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="376" key="GridCell.Tab.1.center/-233.-1080.2560.1080/0.0.1792.1120@-233.-1080.2560.1080" timestamp="1606740210278" />
+    <state width="2518" height="376" key="GridCell.Tab.1.center/-233.-1080.2560.1080/0.23.1792.1097@-233.-1080.2560.1080" timestamp="1606394616016" />
+    <state width="2518" height="376" key="GridCell.Tab.1.left" timestamp="1606740210277">
+      <screen x="-233" y="-1080" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="376" key="GridCell.Tab.1.left/-233.-1080.2560.1080/0.0.1792.1120@-233.-1080.2560.1080" timestamp="1606740210277" />
+    <state width="2518" height="376" key="GridCell.Tab.1.left/-233.-1080.2560.1080/0.23.1792.1097@-233.-1080.2560.1080" timestamp="1606394616015" />
+    <state width="2518" height="376" key="GridCell.Tab.1.right" timestamp="1606740210278">
+      <screen x="-233" y="-1080" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="376" key="GridCell.Tab.1.right/-233.-1080.2560.1080/0.0.1792.1120@-233.-1080.2560.1080" timestamp="1606740210278" />
+    <state width="2518" height="376" key="GridCell.Tab.1.right/-233.-1080.2560.1080/0.23.1792.1097@-233.-1080.2560.1080" timestamp="1606394616017" />
+    <state x="556" y="-901" key="SettingsEditor" timestamp="1606390531382">
+      <screen x="-233" y="-1080" width="2560" height="1080" />
+    </state>
+    <state x="556" y="-901" key="SettingsEditor/-233.-1080.2560.1080/0.0.1792.1120@-233.-1080.2560.1080" timestamp="1606390531382" />
+    <state x="596" y="-804" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606392912860">
+      <screen x="-233" y="-1080" width="2560" height="1080" />
+    </state>
+    <state x="596" y="-804" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-233.-1080.2560.1080/0.23.1792.1097@-233.-1080.2560.1080" timestamp="1606392912860" />
+    <state x="712" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1606561842062">
+      <screen x="-233" y="-1080" width="2560" height="1080" />
+    </state>
+    <state x="712" y="-839" width="670" height="676" key="search.everywhere.popup/-233.-1080.2560.1080/0.0.1792.1120@-233.-1080.2560.1080" timestamp="1606561842062" />
+    <state x="712" y="-839" width="670" height="676" key="search.everywhere.popup/-233.-1080.2560.1080/0.23.1792.1097@-233.-1080.2560.1080" timestamp="1606392321089" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="GoTestRunConfiguration">
+        <watch expression="*(*&quot;chan *StudingGoLang/hw7_microservice.Message&quot;)(824636610320)" />
+        <watch expression="*(*&quot;StudingGoLang/hw7_microservice.SyncStat&quot;)(824633920800)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
